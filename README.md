@@ -106,22 +106,3 @@ DeviceProcessEvents
 3. Onboard the device to Microsoft Defender for Endpoint
 4. Verify the relevant logs (e.g., network traffic logs, exposure alerts) are being collected in MDE.
 5. Execute the KQL query in the MDE advanced hunting to confirm detection.
-
----
-
-## Created By:
-- **Author Name**: Trevino Parker
-- **Author Contact**: https://www.linkedin.com/in/trevinoparker/
-- **Date**: Jan 2025
-
-## Validated By:
-- **Reviewer Name**: Josh Madakor
-- **Reviewer Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Validation Date**: Jan 2025
-
----
-
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `Jan 2025`  | `Trevino Parker`   
